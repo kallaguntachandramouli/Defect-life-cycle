@@ -1,0 +1,13 @@
+Defect Reporting is the process of identifying, documenting, and reporting defects found during testing. 
+Defect reporting is documenting and reporting defects found during testing. 
+A report should include essential information to help developers reproduce and fix the issue.
+ex:
+ Defect ID                                lct-001        
+ Title                                 login button is not working
+ Description                           details description
+ Severity/Priority                      high,low
+  Steps to Reproduce                    step by step instruction
+  Expected and Actual Results            expected vs actual result behaviour
+  Environment                             os , browser
+ Attachments                             (screenshots, videos, etc.)
+
