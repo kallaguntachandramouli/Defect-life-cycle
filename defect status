@@ -1,0 +1,10 @@
+Defect Status: In Progress or Assigned- When a developer accepts a defect, the status changes to "In Progress" or "Assigned".
+1.Indicates the developer is actively working on the fix.
+2. Helps track progress and manage workflow.
+3.Typically, the defect owner or project manager updates the status.
+4. Notifies stakeholders about the defect's status.
+5. Allows for better resource allocation and prioritization.
+6. Helps identify bottlenecks in the development process.
+7. Usually, automated tools update the status.
+8.The status change triggers further actions, like testing.
+9. Ensures transparency and visibility throughout the process.
