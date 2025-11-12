@@ -1,0 +1,10 @@
+1.defect Status: Reopened- If a tester finds the fix isn't working, they'll change the status to "Reopened".
+Indicates the defect wasn't fixed and needs further work.
+Notifies the developer to re-examine and re-fix the issue.
+ Helps track defects that require additional attention.
+ Ensures the defect is re-addressed and re-tested.
+ Typically, the tester updates the status.
+Triggers re-notification to the developer.
+ Allows for re-prioritization and re-allocation of resources.
+ Maintains transparency and visibility.
+ Ensures defect is fully resolved before closure.
