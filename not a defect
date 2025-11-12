@@ -1,0 +1,19 @@
+1. Duplicate: Sometimes it may happen that the defect is repeated twice or the defect is the same as anyother defect then it is marked as a 'Duplicate' state and then the defect is 'Rejected'.
+ The reported issue is already identified and reported
+     Same defect, same symptoms, same environment
+     Same root cause
+ Example:
+    1.Two testers report the same issue with the login button.
+    2. Same defect reported on different browsers or devices.
+
+
+2. Not a Defect: If the defect has no impact or effect on other functions of the software then it is marked as'NOT A DEFECT' state and 'Rejected'.
+ Reported issue is not a defect, but rather:
+    1. Expected behavior
+    2. Misunderstanding or misinterpretation
+    3. User error
+    4. Outdated documentation or requirements
+ Example:
+    1. User reports that the application is slow, but it's due to network issues.
+    2. Tester reports that a feature is not working, but it's not implemented yet.
+ 
