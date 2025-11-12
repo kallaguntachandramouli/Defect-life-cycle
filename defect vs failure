@@ -1,0 +1,15 @@
+ 1.Defect: A flaw or imperfection in a product's design, code, or functionality that causes it to behave unexpectedly or incorrectly.
+1. Flaw in code or design
+2. Root cause of an issue
+3. Can be latent or active
+4. Can lead to multiple failures
+5. Fixing defects improves quality
+Example: Calculation error in payment processing code (Defect).
+
+2. Failure: An event or instance where a product or system does not perform its intended function or behaves incorrectly, often due to a defect.
+1. Incorrect or unexpected behavior
+2. Symptom of a defect
+3. Visible manifestation of an issue
+4. Can be detected through testing
+5. Resolved by fixing the underlying defect
+Example: Payment processing fails, resulting in incorrect balance (Failure
